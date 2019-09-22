@@ -6,9 +6,9 @@ Today we're gonna cover [Video](), [Chat]() and messaging using Whatsapp, [Twili
 
 ## Workshop files
 
-// TODO add button to reduced version
+[![Edit [WORKSHOP] Kick off!](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/workshop-kick-off-unnum?fontsize=14)
 
-For the whole day we'll work on a slimed down version and reimplement the functionality.
+For the whole day we'll work on a slimed down version and reimplement the functionality for chat, video and whatsapp.
 
 ## How will we work
 
@@ -18,4 +18,4 @@ Have a look [at the issues](https://github.com/stefanjudis/twilio-workshop-final
 
 [![Edit Twilio workshop](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/twilio-workshop-qli5j?fontsize=14)
 
-This repository included the final implementation.
+This repository included the final implementation and you can have a look at how things are implmented. Try following the instructions in the issues though. 🙈
