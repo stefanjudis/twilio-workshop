@@ -1,0 +1,17 @@
+{
+  "name": "twilio-workshop",
+  "version": "1.0.0",
+  "description": "Workshop project showing how to get started with Twilio Chat, Video and Whatsapp",
+  "scripts": {
+    "start": "netlify dev -c \"eleventy --serve --watch --formats=njk\""
+  },
+  "dependencies": {
+    "@11ty/eleventy": "0.9.0",
+    "give-me-a-joke": "0.1.2",
+    "netlify-cli": "2.15.0",
+    "twilio": "3.34.0",
+    "unique-names-generator": "3.0.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}

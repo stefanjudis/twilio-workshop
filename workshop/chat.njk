@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" class="chat-page">
+
+<head>
+  {% include "head.njk" %}
+  <title>Control station</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script src="https://media.twiliocdn.com/sdk/js/chat/v3.3/twilio-chat.min.js"></script>
+  {% set js %}
+    {% include "user/chat.js" %}
+  {% endset %}
+  <script type="module">{{ js | safe }}</script>
+</body>
+
+</html>
